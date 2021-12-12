@@ -1,3 +1,3 @@
 #Demo
 
-This is a demonstration for git hub
+This is a demonstration for github
